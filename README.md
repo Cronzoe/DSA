@@ -6,16 +6,16 @@
     II)  Deletion from (start, end, random position)
     
     III) Display / Traversing
-    
-2: Double Linked List:
 
-3: Circular Linked List:
+2: Circular Linked List:
 
     I)   Addition at (start, end, random position)
     
     II)  Deletion from (start, end, random position)
     
     III) Display / Traversing
+
+3: Double Linked List:
 
 4: Stack and Queue using Linked List:
 
