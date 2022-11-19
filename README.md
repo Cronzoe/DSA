@@ -1,10 +1,16 @@
-# Linked-list
-DSA Linked List Code in C++ for
+# DSA
+1: Linear Linked List:
 
-1: Addition at (start, end, random position)
+    I)   Addition at (start, end, random position)
+    
+    II)  Deletion from (start, end, random position)
+    
+    III) Display
+    
+2: Double Linked List:
 
-2: Deletion from (start, end, random position)
+3: Circular Linked List:
 
-3: Display
+4: Stack and Queue using Linked List:
 
-4: Reversing Linked List
+5: Reversing Linked List
