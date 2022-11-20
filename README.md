@@ -1,5 +1,12 @@
 # DSA
-1: Linear Linked List:
+1: Stack.
+
+2: Queue:
+
+    I)  Linear Queue
+    
+    II) Circular Queue
+3: Linear Linked List:
 
     I)   Addition at (start, end, random position)
     
@@ -7,7 +14,7 @@
     
     III) Display / Traversing
 
-2: Circular Linked List:
+4: Circular Linked List:
 
     I)   Addition at (start, end, random position)
     
@@ -15,8 +22,8 @@
     
     III) Display / Traversing
 
-3: Double Linked List:
+5: Double Linked List:
 
-4: Stack and Queue using Linked List:
+6: Stack and Queue using Linked List:
 
-5: Reversing Linked List.
+7: Reversing Linked List.
