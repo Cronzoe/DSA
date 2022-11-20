@@ -1,11 +1,17 @@
 # DSA
-1: Stack.
+1: Stack:
+
+    I)Stack
+    
+    II)Stack using Linked List
 
 2: Queue:
 
-    I)  Linear Queue
+    I)   Linear Queue
     
-    II) Circular Queue
+    II)  Circular Queue
+    
+    III) Queue using Linked List
 3: Linear Linked List:
 
     I)   Addition at (start, end, random position)
