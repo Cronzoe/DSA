@@ -24,6 +24,4 @@
 
 5: Double Linked List:
 
-6: Stack and Queue using Linked List:
-
-7: Reversing Linked List.
+6: Reversing Linked List.
