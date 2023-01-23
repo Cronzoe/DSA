@@ -28,7 +28,13 @@
     
     III) Display / Traversing
 
-5: Reversing Linked List.
+5: Double Linked List:
+
+    I)   Addition at (start, end, random position)
+    
+    II)  Deletion from (start, end)
+    
+    III) Display / Traversing
 
 6: Binary Search Tree.
 
