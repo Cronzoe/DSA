@@ -28,6 +28,14 @@
     
     III) Display / Traversing
 
-5: Double Linked List:
+5: Reversing Linked List.
 
-6: Reversing Linked List.
+6: Binary Search Tree.
+
+    I)   Insertion
+    
+    II)  Searching
+    
+    III) Pre-Order Traversal
+    IV)  Post-Order Traversal
+    V)   In-Order Traversal
